@@ -1,11 +1,18 @@
 {
     "name": "kette",
     "version": "0.0.1",
-    "description": "",
+    "description": "Async chaining like a champ",
     "main": "index.js",
     "scripts": {
         "test": "mocha"
     },
+    "keywords": [
+        "async",
+        "chain",
+        "map",
+        "reduce",
+        "flowcontrol"
+    ],
     "repository": "git@github.com:agebrock/kette.git",
     "author": "Agebrock <christoph.hagenbrock@googlemail.com>",
     "license": "ISC",
