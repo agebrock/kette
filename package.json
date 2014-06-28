@@ -1,0 +1,16 @@
+{
+    "name": "kette",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": "git@github.com:agebrock/kette.git",
+    "author": "Agebrock <christoph.hagenbrock@googlemail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "async": "^0.9.0",
+        "should": "^4.0.4"
+    }
+}
